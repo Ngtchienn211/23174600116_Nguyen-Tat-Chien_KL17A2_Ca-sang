@@ -1,0 +1,26 @@
+- Bài 1: 
+a) đúng
+b) đúng
+c) đúng
+d) thiếu
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) đúng
+c) thiếu
+d) thiếu
+e) thiếu
+Điểm bài tập: 2.0
+
+- Bài 4:
+a) đúng
+b) đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 3: 6.5
