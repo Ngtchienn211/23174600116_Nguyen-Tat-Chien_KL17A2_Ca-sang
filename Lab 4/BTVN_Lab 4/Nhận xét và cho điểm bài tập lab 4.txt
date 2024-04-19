@@ -1,0 +1,28 @@
+- Bài 1: 
+a) b) nếu in ra số chẵn hay số lẻ sau vòng lặp thì máy chỉ nhận kết quả số cuối cùng em nhập vào
+c) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) Sai yêu cầu đề bài. Đoạn code em viết chỉ in ra các số nhỏ hơn 100
+b) 0 không phải là số chính phương -> 0.75
+c) đúng
+Điểm bài tập: 1.75
+
+- Bài 3: đúng
+Điểm bài tập: 1.0
+
+- Bài 4:
+a) điều kiện dừng vòng lặp của em là a <= n tức là khi a > n, vòng lặp sẽ dừng. Vậy thì thêm đoạn code break khi a > n là không cần thiết -> 0.25
+b) S2 của em bằng 0 vì em cho sai điều kiện vòng lặp. Điều kiện vòng lặp của em là  a <= n, mà sau câu a thì a > n rồi thì vòng lặp đâu có thực hiện? -> 0 
+c) nếu cô chọn n = 4 thì tổng của cô sẽ bằng -6, trong khi tổng đúng là 10? -> 0
+d) thiếu
+Điểm bài tập: 0.25
+
+- Bài 5: dùng lower, kiến thức vượt ngoài các lab đã học
+Điểm bài tập: 0.75
+
+- Bài 6: thiếu
+Điểm bài tập: 0
+
+Tổng điểm bài tập lab 4: 5.25
